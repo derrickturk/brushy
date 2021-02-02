@@ -2,7 +2,7 @@
 
 This is the observablehq example from https://observablehq.com/@d3/brushable-scatterplot-matrix ported to typescript.
 
-Setup:
+Setup:  
     npm install typescript @types/d3 http-server
     npx tsc
     npx http-server
