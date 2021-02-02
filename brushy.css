@@ -1,0 +1,12 @@
+circle.hidden {
+    fill: #000000;
+    fill-opacity: 1;
+    r: 1px;
+}
+
+text.label {
+    font-family: sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    pointer-events: none;
+}
